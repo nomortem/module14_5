@@ -41,5 +41,4 @@ def is_included(username):
     connection.close()
     return user is not None
 
-initiate_db()
 
